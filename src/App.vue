@@ -1,7 +1,7 @@
 <template>
-  <div class="flex max-h-full flex-col overflow-y-hidden">
+  <div class="flex min-h-full flex-col overflow-y-hidden">
     <Header />
-    <div class="flex flex-1 border">
+    <div class="flex h-full flex-1">
       <Sidebar />
       <Main />
     </div>

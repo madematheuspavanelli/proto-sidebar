@@ -1,6 +1,6 @@
 <template>
   <div
-    class="relative h-full overflow-x-auto overflow-y-scroll bg-light-blue shadow-xl transition-all duration-300"
+    class="relative h-[calc(100vh-3.5rem)] bg-light-blue shadow-xl transition-all duration-300"
     :class="[isOpen ? 'w-64' : 'w-16']"
   >
     <button

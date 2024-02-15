@@ -9,11 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.18",
     "@vueuse/core": "^10.7.2",
     "lucide-vue-next": "^0.323.0",
     "vue": "^3.3.11"
   },
   "devDependencies": {
+    "@headlessui/vue": "^1.7.19",
     "@types/node": "^20.11.16",
     "@vitejs/plugin-vue": "^4.5.2",
     "autoprefixer": "^10.4.17",
